@@ -43,7 +43,7 @@
 						<autoVersionSubmodules>true</autoVersionSubmodules>
 						<suppressCommitBeforeBranch>true</suppressCommitBeforeBranch>
 						<remoteTagging>false</remoteTagging>
-						<updateBranchVersions>true</updateBranchVersions>
+						<updateBranchVersions>false</updateBranchVersions>
 						<updateWorkingCopyVersions>false</updateWorkingCopyVersions>
 					</configuration>
 				</plugin>
