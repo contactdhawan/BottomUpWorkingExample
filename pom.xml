@@ -42,9 +42,9 @@
 					<configuration>
 						<autoVersionSubmodules>true</autoVersionSubmodules>
 						<suppressCommitBeforeBranch>true</suppressCommitBeforeBranch>
-						<remoteTagging>false</remoteTagging>
-						<updateBranchVersions>false</updateBranchVersions>
-						<updateWorkingCopyVersions>false</updateWorkingCopyVersions>
+						<remoteTagging>true</remoteTagging>
+						<updateBranchVersions>true</updateBranchVersions>
+						<updateWorkingCopyVersions>true</updateWorkingCopyVersions>
 					</configuration>
 				</plugin>
 			</plugins>
